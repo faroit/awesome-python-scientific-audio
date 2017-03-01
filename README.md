@@ -25,12 +25,11 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 #### Transformations, General DSP
 
 * FFT (part of scipy.fftpack (fast) and numpy (slower))
-* pyFFTW3 
+* [pyFFTW3](https://github.com/pyFFTW/pyFFTW) - wrapper around FFTW 
 * [NSGT](https://github.com/grrrr/nsgt) - non-stationary gabor transform, constant-q
 * [MDCT](https://github.com/nils-werner/mdct) - MDCT transform
 * [STFT](https://github.com/nils-werner/stft) - standalone STFT package
 * [Gammatone](https://github.com/detly/gammatone) - Gammatone filterbank implementation
-* [Sidekit](http://lium.univ-lemans.fr/sidekit) - Speaker and Language recognition
 * [Resampy](https://github.com/bmcfee/resampy) - sample rate conversion.
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) - A python wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
