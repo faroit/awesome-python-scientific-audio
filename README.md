@@ -111,3 +111,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises
 * https://github.com/unpingco/Python-for-Signal-Processing
+
+### License
+
+[![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
