@@ -35,12 +35,14 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
 * [pytftb](https://github.com/scikit-signal/pytftb) - A Python implementation of the MATLAB Time-Frequency Toolbox by Auger, Flandrin, Goncalves and Lemoine
 * [PyWavelets](https://github.com/scikit-signal/pywt) - Discrete Wavelet Transform in Python
+* [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox, mostly filters
 
 #### Feature extraction
 
-* [pyYAAFE](http://yaafe.sourceforge.net) Python bindings for YAAFE
-* [aubio](http://aubio.org/) feature extractor, written in C, python interface
-* [audiolazy](https://github.com/danilobellini/audiolazy) Realtime Audio Processing lib, general purpose
+* [pyYAAFE](http://yaafe.sourceforge.net) - Python bindings for YAAFE
+* [aubio](http://aubio.org/) - feature extractor, written in C, python interface
+* [audiolazy](https://github.com/danilobellini/audiolazy) - Realtime Audio Processing lib, general purpose
+* [muda](https://github.com/bmcfee/muda) -  Musical Data Augmentation
 
 #### Speech Processing
 
