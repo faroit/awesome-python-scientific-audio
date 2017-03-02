@@ -34,6 +34,12 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) - A python wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
 
+#### Feature extraction
+
+* [pyYAAFE](http://yaafe.sourceforge.net) Python bindings for YAAFE
+* [aubio](http://aubio.org/) feature extractor, written in C, python interface
+* [audiolazy](https://github.com/danilobellini/audiolazy) Realtime Audio Processing lib, general purpose
+
 #### Speech Processing
 
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - feature Extraction, Classification, Diarization
@@ -46,10 +52,6 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [Loudness](https://github.com/deeuu/loudness) - perceived loudness, includes Zwicker, Moore/Glasberg model
 * [Sound Field Synthesis Toolbox](Sound Field Synthesis Toolbox for Python)
 * [BrianHears](http://www.briansimulator.org/docs/index.html) - General Auditory Models
-
-#### Realtime applications
-
-* [PYO](https://github.com/belangeo/pyo) - realtime audio engine similar supercollider
 
 #### Source Separation
 
@@ -69,18 +71,16 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
 * [Catchy](https://github.com/jvbalen/catchy) - Corpus Analysis Tools for Computational Hook Discovery
 
-### Symbolic Music / MIDI
+#### Symbolic Music / MIDI / Musicology
 
 * [Music21](http://web.mit.edu/music21/) - a Toolkit for Computer-Aided Musicology
 * [Mido](https://mido.readthedocs.io/en/latest/) - Realtime MIDI wrapper 
 * [Pretty-MIDI](https://github.com/craffel/pretty-midi) Utility functions for handling MIDI data in a nice/intuitive way
 * [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
 
-#### Feature extraction
+#### Realtime applications
 
-* [pyYAAFE](http://yaafe.sourceforge.net) Python bindings for YAAFE
-* [aubio](http://aubio.org/) feature extractor, written in C, python interface
-* [audiolazy](https://github.com/danilobellini/audiolazy) Realtime Audio Processing lib, general purpose
+* [PYO](https://github.com/belangeo/pyo) - realtime audio engine similar supercollider
 
 #### Web + Audio
 
