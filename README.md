@@ -3,11 +3,11 @@
 
 The python ecosystem [is huge](http://anvaka.github.io/pm/#/galaxy/python?cx=-2700&cy=377&cz=5622&lx=-0.0869&ly=-0.2315&lz=-0.0338&lw=0.9684&ml=150&s=1.75&l=1&v=2015-09-27T13-00-00Z)
 
-The idea of this repository is to create a comprehensive, curated list of python software and packages related to scientific research in audio. 
+The idea of this repository is to create a comprehensive, curated list of python software and packages related to scientific research in audio.
 
 ## Related lists
- 
-There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However the audio section is very small. 
+
+There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However the audio section is very small.
 
 ### Audio Related Packages
 
@@ -25,7 +25,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 #### Transformations, General DSP
 
 * FFT (part of scipy.fftpack (fast) and numpy (slower))
-* [pyFFTW3](https://github.com/pyFFTW/pyFFTW) - wrapper around FFTW 
+* [pyFFTW3](https://github.com/pyFFTW/pyFFTW) - wrapper around FFTW
 * [NSGT](https://github.com/grrrr/nsgt) - non-stationary gabor transform, constant-q
 * [MDCT](https://github.com/nils-werner/mdct) - MDCT transform
 * [STFT](https://github.com/nils-werner/stft) - standalone STFT package
@@ -33,6 +33,8 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [Resampy](https://github.com/bmcfee/resampy) - sample rate conversion.
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) - A python wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+* [pytftb](https://github.com/scikit-signal/pytftb) - A Python implementation of the MATLAB Time-Frequency Toolbox by Auger, Flandrin, Goncalves and Lemoine
+* [PyWavelets](https://github.com/scikit-signal/pywt) - Discrete Wavelet Transform in Python
 
 #### Feature extraction
 
@@ -45,7 +47,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - feature Extraction, Classification, Diarization
 * [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) - Speaker and Language recognition.
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) -  interface to the WebRTC Voice Activity Detector
-* [talkbox](http://scikits.appspot.com/talkbox) - General speech/signal processing algorithms. ⚠️ Not maintained. 
+* [talkbox](http://scikits.appspot.com/talkbox) - General speech/signal processing algorithms. ⚠️ Not maintained.
 
 #### Perceptial/Auditory Models
 
@@ -74,7 +76,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 #### Symbolic Music / MIDI / Musicology
 
 * [Music21](http://web.mit.edu/music21/) - a Toolkit for Computer-Aided Musicology
-* [Mido](https://mido.readthedocs.io/en/latest/) - Realtime MIDI wrapper 
+* [Mido](https://mido.readthedocs.io/en/latest/) - Realtime MIDI wrapper
 * [Pretty-MIDI](https://github.com/craffel/pretty-midi) Utility functions for handling MIDI data in a nice/intuitive way
 * [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
 
@@ -91,7 +93,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [Youtube-Downloader](https://github.com/rg3/youtube-dl) - Download youtube videos (and the audio)
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) - A Python wrapper around the Soundcloud API
 * [beets](http://beets.io/) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
-* [dsdtools](https://github.com/faroit/dsdtools) - parse and process the demixing secrets dataset 
+* [dsdtools](https://github.com/faroit/dsdtools) - parse and process the demixing secrets dataset
 * [medleydb](https://github.com/marl/medleydb) - parse medleydb audio + annotations
 
 #### Bindings/Wrappers to other languages
