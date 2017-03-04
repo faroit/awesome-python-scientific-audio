@@ -56,6 +56,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [Loudness](https://github.com/deeuu/loudness) - perceived loudness, includes Zwicker, Moore/Glasberg model
 * [Sound Field Synthesis Toolbox](Sound Field Synthesis Toolbox for Python)
 * [BrianHears](http://www.briansimulator.org/docs/index.html) - General Auditory Models
+* [cochlea](https://github.com/mrkrd/cochlea) - Inner ear models
 
 #### Source Separation
 
