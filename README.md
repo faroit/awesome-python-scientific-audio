@@ -50,6 +50,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) - Speaker and Language recognition.
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) -  interface to the WebRTC Voice Activity Detector
 * [talkbox](http://scikits.appspot.com/talkbox) - General speech/signal processing algorithms. ⚠️ Not maintained.
+* [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  wrapper for several ASR engines and APIs, online and offline
 
 #### Perceptial/Auditory Models
 
