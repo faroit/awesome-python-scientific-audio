@@ -43,6 +43,7 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 * [aubio](http://aubio.org/) - feature extractor, written in C, python interface
 * [audiolazy](https://github.com/danilobellini/audiolazy) - Realtime Audio Processing lib, general purpose
 * [muda](https://github.com/bmcfee/muda) -  Musical Data Augmentation
+* [python_speech_features](https://github.com/jameslyons/python_speech_features) - Common speech features for ASR
 
 #### Speech Processing
 
@@ -111,9 +112,9 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 
 ## Tutorials/Books
 
+* [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) - Highly recommended :+1: 
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) Excellent Book, look for the Tutorial notebooks
 * [MIR Notebooks](http://musicinformationretrieval.com/)
-* [http://www.scipy-lectures.org/index.html](Deep Introduction to Numpy and Scipy)
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises
 * https://github.com/unpingco/Python-for-Signal-Processing
