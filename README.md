@@ -7,9 +7,9 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 * the package is audio/music related
 * the package is useful for several (not just one) fields of research
-* (optional) the package is actively maintained
-* (optional) the package is listed on pypi
-* (optional) the package runs on python 2 and python 3
+* (optional) the package is actively maintained (add a ⚠️ state if not)
+* (optional) the package is listed on pypi (add a ⚠️ if not)
+* (optional) the package runs on python 2 and python 3 (use `²` for a package that supports python2, use `³` for a package that only supports python 3)
 
 ## Related lists
 
@@ -125,12 +125,12 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), bu
 * https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises
 * https://github.com/unpingco/Python-for-Signal-Processing
 
-### License
-
-[![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
-
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
+
+### License
+
+[![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
