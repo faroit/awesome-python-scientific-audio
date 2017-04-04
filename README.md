@@ -48,6 +48,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), bu
 * [audiolazy](https://github.com/danilobellini/audiolazy) - Realtime Audio Processing lib, general purpose
 * [muda](https://github.com/bmcfee/muda) -  Musical Data Augmentation
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) - Common speech features for ASR
+* [essentia](http://essentia.upf.edu) - C++ based feature extractor + general purpose audio/MIR related DSP algorithms like pitch tracking, beat detection.
 
 #### Speech Processing
 
@@ -77,7 +78,6 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), bu
 
 * [librosa](https://github.com/librosa/librosa) - general audio and music analysis
 * [mir_eval](https://github.com/craffel/mir_eval) - common heuristic accuracy scores for various MIR tasks.
-* [essentia](http://essentia.upf.edu) - C++ based feature extractor + general purpose audio/MIR related DSP algorithms like pitch tracking, beat detection.
 * [Madmom](https://github.com/CPJKU/madmom) MIR packages with strong focus on beat detection, onset detection and chord recognition.
 * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
 * [Catchy](https://github.com/jvbalen/catchy) - Corpus Analysis Tools for Computational Hook Discovery
