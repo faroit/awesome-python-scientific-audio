@@ -13,7 +13,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Related lists
 
-There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
+There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
 
 ## Audio Related Packages
 
@@ -28,18 +28,17 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), bu
 
 #### Transformations, General DSP
 
-* FFT (part of scipy.fftpack (fast) and numpy (slower))
+* [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox, mostly filters
+* [Gammatone](https://github.com/detly/gammatone) - Gammatone filterbank implementation
 * [pyFFTW3](https://github.com/pyFFTW/pyFFTW) - wrapper around FFTW
 * [NSGT](https://github.com/grrrr/nsgt) - non-stationary gabor transform, constant-q
 * [MDCT](https://github.com/nils-werner/mdct) - MDCT transform
-* [STFT](https://github.com/nils-werner/stft) - standalone STFT package
-* [Gammatone](https://github.com/detly/gammatone) - Gammatone filterbank implementation
-* [Resampy](https://github.com/bmcfee/resampy) - sample rate conversion.
-* [PyRubberband](https://github.com/bmcfee/pyrubberband) - A python wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
-* [pytftb](https://github.com/scikit-signal/pytftb) - A Python implementation of the MATLAB Time-Frequency Toolbox by Auger, Flandrin, Goncalves and Lemoine
+* [pytftb](https://github.com/scikit-signal/pytftb) - A Python implementation of the MATLAB Time-Frequency Toolbox
+* [PyRubberband](https://github.com/bmcfee/pyrubberband) - A python wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [PyWavelets](https://github.com/scikit-signal/pywt) - Discrete Wavelet Transform in Python
-* [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox, mostly filters
+* [Resampy](https://github.com/bmcfee/resampy) - sample rate conversion.
+* [STFT](https://github.com/nils-werner/stft) - standalone STFT package
 
 #### Feature extraction
 
