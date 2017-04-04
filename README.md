@@ -19,12 +19,12 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), bu
 
 #### Read/Write
 
-* [(Py)Soundfile](https://github.com/bastibe/PySoundFile) - is an audio library based on libsndfile, CFFI, and NumPy
-* [pySox](https://github.com/rabitt/pysox) - Python wrapper around sox
-* [pyAV](https://mikeboers.github.io/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav
-* [tinytag](https://github.com/devsnd/tinytag) - reading music meta data of MP3, OGG, FLAC and Wave files.
 * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
 * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+* [pyAV](https://mikeboers.github.io/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav
+* [(Py)Soundfile](https://github.com/bastibe/PySoundFile) - audio library based on libsndfile, CFFI, and NumPy
+* [pySox](https://github.com/rabitt/pysox) - Python wrapper around sox
+* [tinytag](https://github.com/devsnd/tinytag) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
 #### Transformations, General DSP
 
