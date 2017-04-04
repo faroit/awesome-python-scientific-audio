@@ -1,13 +1,19 @@
 # Python in Audio Research
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The python ecosystem [is huge](http://anvaka.github.io/pm/#/galaxy/python?cx=-2700&cy=377&cz=5622&lx=-0.0869&ly=-0.2315&lz=-0.0338&lw=0.9684&ml=150&s=1.75&l=1&v=2015-09-27T13-00-00Z)
+The aim of this repository is to create a comprehensive, curated list of python packages related and used for scientific research in audio.
 
-The idea of this repository is to create a comprehensive, curated list of python software and packages related to scientific research in audio.
+## Awesome Criteria
+
+* the package is audio/music related
+* the package is useful for several (not just one) fields of research
+* (optional) the package is actively maintained
+* (optional) the package is listed on pypi
+* (optional) the package runs on python 2 and python 3
 
 ## Related lists
 
-There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However the audio section is very small.
+There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
 
 ### Audio Related Packages
 
@@ -122,3 +128,9 @@ There is already [this list](https://wiki.python.org/moin/PythonInMusic), but it
 ### License
 
 [![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+## Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
