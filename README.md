@@ -20,13 +20,11 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), bu
 #### Read/Write
 
 * [(Py)Soundfile](https://github.com/bastibe/PySoundFile) - is an audio library based on libsndfile, CFFI, and NumPy
-* [(Py)Soundcard](https://github.com/bastibe/PySoundCard) - is an audio library based on PortAudio for realtime audio processing
 * [pySox](https://github.com/rabitt/pysox) - Python wrapper around sox
 * [pyAV](https://mikeboers.github.io/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav
 * [tinytag](https://github.com/devsnd/tinytag) - reading music meta data of MP3, OGG, FLAC and Wave files.
 * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
 * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-* [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) another portaudio wrapper
 
 #### Transformations, General DSP
 
@@ -94,6 +92,8 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic), bu
 #### Realtime applications
 
 * [PYO](https://github.com/belangeo/pyo) - realtime audio engine similar supercollider
+* [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) another portaudio wrapper
+* [(Py)Soundcard](https://github.com/bastibe/PySoundCard) - is an audio library based on PortAudio for realtime audio processing
 
 #### Web + Audio
 
