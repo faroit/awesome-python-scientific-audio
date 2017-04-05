@@ -31,12 +31,12 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox, mostly filters
 * [Gammatone](https://github.com/detly/gammatone) - Gammatone filterbank implementation
 * [pyFFTW3](https://github.com/pyFFTW/pyFFTW) - wrapper around FFTW
-* [NSGT](https://github.com/grrrr/nsgt) - non-stationary gabor transform, constant-q
+* [NSGT](https://github.com/grrrr/nsgt)² - non-stationary gabor transform, constant-q
 * [MDCT](https://github.com/nils-werner/mdct) - MDCT transform
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
 * [pytftb](https://github.com/scikit-signal/pytftb) - A Python implementation of the MATLAB Time-Frequency Toolbox
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) - A python wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
-* [PyWavelets](https://github.com/scikit-signal/pywt) - Discrete Wavelet Transform in Python
+* [PyWavelets](https://github.com/scikit-signal/pywt)² - Discrete Wavelet Transform in Python
 * [Resampy](https://github.com/bmcfee/resampy) - sample rate conversion.
 * [STFT](https://github.com/nils-werner/stft) - standalone STFT package
 
