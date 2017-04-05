@@ -19,8 +19,8 @@ and the accompanying code.
 
 ## Awesome Criteria
 
-* the package is audio/music related
-* the package is useful for several (not just one) fields of research
-* (optional) the package is actively maintained (add a ⚠️ state if not)
-* (optional) the package is listed on pypi (add a ⚠️ if not)
-* (optional) the package runs on python 2 and python 3 (use `²` for a package that supports python2, use `³` for a package that only supports python 3`)
+* the software is audio/music related
+* the software is useful for several (not just one) fields of research
+* (optional) the software is actively maintained (add a ⚠️ state if not)
+* (optional) the software is listed on pypi (add a ⚠️ if not)
+* (optional) the software runs on python 2 and python 3 (See `²` python 2 only, `³` for python 3 only)
