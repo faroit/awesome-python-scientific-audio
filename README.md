@@ -29,7 +29,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [pySox](https://github.com/rabitt/pysox) - Python wrapper around sox
 * [tinytag](https://github.com/devsnd/tinytag) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
-#### Transformations, General DSP
+#### Transformations - General DSP
 
 * [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox, mostly filters
 * [Gammatone](https://github.com/detly/gammatone) - Gammatone filterbank implementation
@@ -60,7 +60,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  wrapper for several ASR engines and APIs, online and offline
 * [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. ⚠️ Not maintained.
 
-#### Perceptial/Auditory Models
+#### Perceptial Models - Auditory Models
 
 * [cochlea](https://github.com/mrkrd/cochlea)² - Inner ear models
 * [BrianHears](http://www.briansimulator.org/docs/index.html)² - General Auditory Models
@@ -84,7 +84,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [mir_eval](https://github.com/craffel/mir_eval) - common scores for various MIR tasks. Also includes bss_eval implementation.
 * [librosa](https://github.com/librosa/librosa) - general audio and music analysis
 
-#### Symbolic Music / MIDI / Musicology
+#### Symbolic Music - MIDI - Musicology
 
 * [Music21](http://web.mit.edu/music21/) - a Toolkit for Computer-Aided Musicology
 * [Mido](https://mido.readthedocs.io/en/latest/) - Realtime MIDI wrapper
@@ -101,7 +101,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 * [TimeSide](https://github.com/Parisson/TimeSide)² - Open web audio processing framework.
 
-#### Packages to access audio APIs / parsing audio datasets
+#### Packages to access audio APIs - parsing audio datasets
 
 * [beets](http://beets.io/) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dsdtools](https://github.com/faroit/dsdtools) - parse and process the demixing secrets dataset
@@ -114,7 +114,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [PyAU](https://github.com/simlmx/pyau)² ⚠️ Not maintained - Python Audio Unit Host
 * [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) - interface compiled vamp plugins
 
-### Bindings/Wrappers to other languages
+### Bindings or Wrappers for other languages
 
 * [CFFI]() - easily interface c libraries
 * [Matlab_Wrapper](https://github.com/mrkrd/matlab_wrapper) runs code in matlab and returns results to python
