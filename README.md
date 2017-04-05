@@ -98,7 +98,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 * [TimeSide](https://github.com/Parisson/TimeSide)² - Open web audio processing framework.
 
-#### Packages to access public APIs / Parse Datasets
+#### Packages to access audio APIs / parsing audio datasets
 
 * [beets](http://beets.io/) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dsdtools](https://github.com/faroit/dsdtools) - parse and process the demixing secrets dataset
@@ -106,14 +106,17 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) - A Python wrapper around the Soundcloud API
 * [Youtube-Downloader](https://github.com/rg3/youtube-dl) - Download youtube videos (and the audio)
 
-#### Bindings/Wrappers to other languages
+#### Wrappers for Audio Plugins
+
+* [PyAU](https://github.com/simlmx/pyau) - Python Audio Unit Host
+* [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) - interface compiled vamp plugins
+
+### Bindings/Wrappers to other languages
 
 * [CFFI]() - easily interface c libraries
 * [Matlab_Wrapper](https://github.com/mrkrd/matlab_wrapper) runs code in matlab and returns results to python
-* [rpy2](http://rpy2.bitbucket.org/) call R from python
-* [PyAU](https://github.com/simlmx/pyau) - Python Audio Unit Host
 * [pybind11](https://pypi.python.org/pypi/pybind11) - interface c++ code
-* [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) - interface compiled vamp plugins
+* [rpy2](http://rpy2.bitbucket.org/) call R from python
 
 ## Tutorials/Books
 
