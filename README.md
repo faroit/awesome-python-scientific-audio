@@ -53,7 +53,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Transformations - General DSP
 
-* [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox, mostly filters
+* [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters)
 * [Gammatone](https://github.com/detly/gammatone) - Gammatone filterbank implementation
 * [pyFFTW3](https://github.com/pyFFTW/pyFFTW) - Wrapper around FFTW
 * [NSGT](https://github.com/grrrr/nsgt)² - Non-stationary gabor transform, constant-q
