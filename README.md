@@ -66,19 +66,19 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Source Separation
 
-* [beta_ntf](https://code.google.com/archive/p/beta-ntf/) - Non-Negative Tensor factorisation using PARAFAC
+* [beta_ntf](https://code.google.com/archive/p/beta-ntf/)² - Non-Negative Tensor factorisation using PARAFAC
 * [commonfate](https://github.com/aliutkus/commonfate) - Common Fate Transform
-* [NUSSL](https://github.com/interactiveaudiolab/nussl) - common source separation algorithms + framework
+* [NUSSL](https://github.com/interactiveaudiolab/nussl)² - common source separation algorithms + framework
 * [NTFLib](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization Library
 * [NIMFA](http://nimfa.biolab.si) - Several NMF flavors
-* [pyFASST](https://github.com/wslihgt/pyfasst) - Flexible Audio Source Separation Toolbox
+* [pyFASST](https://github.com/wslihgt/pyfasst)² - Flexible Audio Source Separation Toolbox
 
 #### Music Information Retrieval
 
 * [Catchy](https://github.com/jvbalen/catchy) - Corpus Analysis Tools for Computational Hook Discovery
 * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
 * [Madmom](https://github.com/CPJKU/madmom) MIR packages with strong focus on beat detection, onset detection and chord recognition.
-* [mir_eval](https://github.com/craffel/mir_eval) - common heuristic accuracy scores for various MIR tasks.
+* [mir_eval](https://github.com/craffel/mir_eval) - common scores for various MIR tasks. Also includes bss_eval implementation.
 * [librosa](https://github.com/librosa/librosa) - general audio and music analysis
 
 #### Symbolic Music / MIDI / Musicology
