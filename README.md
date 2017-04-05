@@ -39,7 +39,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 ## Audio Related Packages
 
 - Total number of packages: 58
-- Python version compatibility:  ![12](http://progressed.io/bar/98?title=python%202) ![1](http://progressed.io/bar/79?title=python%203)
+- Python version compatibility:  ![57](http://progressed.io/bar/98?title=python%202) ![45](http://progressed.io/bar/78?title=python%203)
 
 #### Read-Write
 
@@ -68,7 +68,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 * [aubio](http://aubio.org/) - Feature extractor, written in C, python interface
 * [audiolazy](https://github.com/danilobellini/audiolazy) - Realtime Audio Processing lib, general purpose
-* [essentia](http://essentia.upf.edu) - C++ based feature extractor + general purpose audio/MIR related DSP algorithms like pitch tracking, beat detection
+* [essentia](http://essentia.upf.edu)² - C++ based feature extractor + general purpose audio/MIR related DSP algorithms like pitch tracking, beat detection
 * [muda](https://github.com/bmcfee/muda) -  Musical Data Augmentation
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) - Common speech features for ASR
 * [pyYAAFE](http://yaafe.sourceforge.net) - Python bindings for YAAFE
