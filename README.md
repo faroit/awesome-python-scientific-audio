@@ -1,15 +1,15 @@
 # Python in Audio Research
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The aim of this repository is to create a comprehensive, curated list of python packages related and used for scientific research in audio.
+The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio.
 
 ## Awesome Criteria
 
-* the package is audio/music related
-* the package is useful for several (not just one) fields of research
-* (optional) the package is actively maintained (add a ⚠️ state if not)
-* (optional) the package is listed on pypi (add a ⚠️ if not)
-* (optional) the package runs on python 2 and python 3 (use `²` for a package that supports python2, use `³` for a package that only supports python 3)
+* the software is audio/music related
+* the software is useful for several (not just one) fields of research
+* (optional) the software is actively maintained (add a ⚠️ state if not)
+* (optional) the software is listed on pypi (add a ⚠️ if not)
+* (optional) the software runs on python 2 and python 3 (See `²` python 2 only, `³` for python 3 only)
 
 ## Related lists
 
