@@ -121,7 +121,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [pybind11](https://pypi.python.org/pypi/pybind11) - interface c++ code
 * [rpy2](http://rpy2.bitbucket.org/) call R from python
 
-## Tutorials/Books
+## Tutorials - Books
 
 * [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) - Highly recommended :+1: 
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) Excellent Book, look for the Tutorial notebooks
