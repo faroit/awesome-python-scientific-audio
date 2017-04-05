@@ -108,7 +108,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Wrappers for Audio Plugins
 
-* [PyAU](https://github.com/simlmx/pyau) - Python Audio Unit Host
+* [PyAU](https://github.com/simlmx/pyau)² ⚠️ Not maintained - Python Audio Unit Host
 * [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) - interface compiled vamp plugins
 
 ### Bindings/Wrappers to other languages
