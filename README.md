@@ -76,7 +76,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 #### Music Information Retrieval
 
 * [Catchy](https://github.com/jvbalen/catchy) - Corpus Analysis Tools for Computational Hook Discovery
-* [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+* [dejavu](https://github.com/worldveil/dejavu)² - Audio fingerprinting and recognition.
 * [Madmom](https://github.com/CPJKU/madmom) MIR packages with strong focus on beat detection, onset detection and chord recognition.
 * [mir_eval](https://github.com/craffel/mir_eval) - common scores for various MIR tasks. Also includes bss_eval implementation.
 * [librosa](https://github.com/librosa/librosa) - general audio and music analysis
@@ -85,7 +85,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 * [Music21](http://web.mit.edu/music21/) - a Toolkit for Computer-Aided Musicology
 * [Mido](https://mido.readthedocs.io/en/latest/) - Realtime MIDI wrapper
-* [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
+* [mingus](http://bspaans.github.io/python-mingus/)² - An advanced music theory and notation package with MIDI file and playback support.
 * [Pretty-MIDI](https://github.com/craffel/pretty-midi) Utility functions for handling MIDI data in a nice/intuitive way
 
 #### Realtime applications
@@ -96,7 +96,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Web + Audio
 
-* [TimeSide](https://github.com/Parisson/TimeSide) - Open web audio processing framework.
+* [TimeSide](https://github.com/Parisson/TimeSide)² - Open web audio processing framework.
 
 #### Packages to access public APIs / Parse Datasets
 
