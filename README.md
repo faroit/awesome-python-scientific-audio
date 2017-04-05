@@ -51,11 +51,11 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Speech Processing
 
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - feature Extraction, Classification, Diarization
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² - feature Extraction, Classification, Diarization
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) -  interface to the WebRTC Voice Activity Detector
-* [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) - Speaker and Language recognition.
+* [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ - Speaker and Language recognition.
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  wrapper for several ASR engines and APIs, online and offline
-* [talkbox](http://scikits.appspot.com/talkbox) - General speech/signal processing algorithms. ⚠️ Not maintained.
+* [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. ⚠️ Not maintained.
 
 #### Perceptial/Auditory Models
 
