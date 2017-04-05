@@ -3,6 +3,28 @@
 
 The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio.
 
+## Content
+
+* [Awesome Criteria](#awesome-criteria)
+* [Related lists](#related-lists)
+* [Audio Related Packages](#audio-related-packages)
+    - [Read/Write](#read-write)
+    - [Transformations - General DSP](#transformations---general-dsp)
+    - [Feature extraction](#feature-extraction)
+    - [Speech Processing](#speech-processing)
+    - [Perceptial Models - Auditory Models](#perceptial-models---auditory-models)
+    - [Source Separation](#source-separation)
+    - [Music Information Retrieval](#music-information-retrieval)
+    - [Symbolic Music - MIDI - Musicology](#symbolic-music---midi---musicology)
+    - [Realtime applications](#realtime-applications)
+    - [Web - Audio](#web---audio)
+    - [Packages to access audio APIs - parsing audio datasets](#packages-to-access-audio-apis---parsing-audio-datasets)
+    - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
+  + [Bindings or Wrappers for other languages](#bindings-or-wrappers-for-other-languages)
+* [Tutorials - Books](#tutorials---books)
+* [Contributing](#contributing)
+  + [License](#license)
+    
 ## Awesome Criteria
 
 * the software is audio/music related
@@ -20,7 +42,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 - Total number of packages: 58
 - Python version compatibility:  ![12](http://progressed.io/bar/98?title=python%202) ![1](http://progressed.io/bar/79?title=python%203)
 
-#### Read/Write
+#### Read-Write
 
 * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
 * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
