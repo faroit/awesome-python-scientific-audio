@@ -40,8 +40,8 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 ## Audio Related Packages
 
-- Total number of packages: 58
-- Python version compatibility:  ![57](http://progressed.io/bar/98?title=python%202) ![45](http://progressed.io/bar/78?title=python%203)
+- Total number of packages: 64
+- Python version compatibility:  ![62](http://progressed.io/bar/98?title=python%202) ![49](http://progressed.io/bar/82?title=python%203)
 
 #### Read-Write
 
