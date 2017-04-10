@@ -20,7 +20,9 @@ and the accompanying code.
 ## Awesome Criteria
 
 * the software is audio/music related
+* the software is released under an open source license that allow contributions
 * the software is useful for several (not just one) fields of research
 * (optional) the software is actively maintained (add a ⚠️ state if not)
-* (optional) the software is listed on pypi (add a ⚠️ if not)
+* (optional) the software is listed on pypi (add a 📦 link to pypi)
+* (optional) the software is version controlled on an open platform like :octocat:
 * (optional) the software runs on python 2 and python 3 (See `²` python 2 only, `³` for python 3 only)
