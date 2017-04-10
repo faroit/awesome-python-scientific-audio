@@ -23,7 +23,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Tutorials - Books](#tutorials---books)
 * [Contributing](#contributing)
   + [License](#license)
-    
+
 ## Awesome Criteria
 
 * the software is audio/music related
@@ -62,7 +62,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching
 * [PyWavelets](https://github.com/scikit-signal/pywt)² - Discrete Wavelet Transform in Python
 * [Resampy](https://github.com/bmcfee/resampy) - Sample rate conversion
-* [STFT](https://github.com/nils-werner/stft) - Standalone package for Short-Time Fourier Transform 
+* [STFT](https://github.com/nils-werner/stft) - Standalone package for Short-Time Fourier Transform
 
 #### Feature extraction
 
@@ -80,6 +80,12 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ - Speaker and Language recognition
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  Wrapper for several ASR engines and APIs, online and offline
 * [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. ⚠️ Not maintained
+* [aeneas](https://www.readbeyond.it/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages
+* [FAVE-align](https://github.com/JoFrhwld/FAVE/) - Forced aligner, based on HTK (HMM), English. ⚠️ Not on PyPI
+* [Gentle](https://lowerquality.com/gentle/) - Forced aligner, based on Kaldi (HMM), English. ⚠️ Not on PyPI
+* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) - Forced aligner, based on Kaldi (HMM), English (others can be trained). ⚠️ Not on PyPI
+* [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)³ - Forced aligner, based on HTK (HMM), English (others can be trained). ⚠️ Not on PyPI
+* [SPPAS](http://www.sppas.org/index.html)² - Forced aligner, based on Julius (HMM), 12 languages (others can be trained). ⚠️ Not on PyPI
 
 #### Perceptial Models - Auditory Models
 
@@ -144,7 +150,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 ## Tutorials - Books
 
-* [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) - Highly recommended :+1: 
+* [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) - Highly recommended :+1:
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Excellent Book, look for the Tutorial notebooks
 * [MIR Notebooks](http://musicinformationretrieval.com/)
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
