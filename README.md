@@ -75,17 +75,18 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Speech Processing
 
+* [aeneas](https://www.readbeyond.it/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages
+* [FAVE-align](https://github.com/JoFrhwld/FAVE/) - Forced aligner, based on HTK (HMM), English. ⚠️ Not on PyPI, ⚠️ Not actively maintained
+* [Gentle](https://lowerquality.com/gentle/) - Forced aligner, based on Kaldi (HMM), English. ⚠️ Not on PyPI
+* [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)³ - Forced aligner, based on HTK (HMM), English (others can be trained). ⚠️ Not on PyPI
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² - Feature Extraction, Classification, Diarization
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) -  Interface to the WebRTC Voice Activity Detector
-* [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ - Speaker and Language recognition
-* [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  Wrapper for several ASR engines and APIs, online and offline
-* [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. ⚠️ Not maintained
-* [aeneas](https://www.readbeyond.it/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages
-* [FAVE-align](https://github.com/JoFrhwld/FAVE/) - Forced aligner, based on HTK (HMM), English. ⚠️ Not on PyPI
-* [Gentle](https://lowerquality.com/gentle/) - Forced aligner, based on Kaldi (HMM), English. ⚠️ Not on PyPI
 * [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) - Forced aligner, based on Kaldi (HMM), English (others can be trained). ⚠️ Not on PyPI
-* [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)³ - Forced aligner, based on HTK (HMM), English (others can be trained). ⚠️ Not on PyPI
+* [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ - Speaker and Language recognition
+* [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  Wrapper for several ASR engines and APIs, online and 
+offline
 * [SPPAS](http://www.sppas.org/index.html)² - Forced aligner, based on Julius (HMM), 12 languages (others can be trained). ⚠️ Not on PyPI
+* [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. ⚠️ Not maintained
 
 #### Perceptial Models - Auditory Models
 
