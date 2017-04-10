@@ -4,7 +4,7 @@ Your contributions are welcome! We foster reproducible research,
 but this list is not intended to promote individual publications 
 and the accompanying code. 
 
-## Guidelines (mainly copied from [here](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md)
+## Guidelines (mainly copied from [here](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md))
 
 * Read the Awesome criteria below
 * Add one link per Pull Request.
