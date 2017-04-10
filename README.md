@@ -45,12 +45,12 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Read-Write
 
-* [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python
-* [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding
-* [pyAV](https://mikeboers.github.io/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav
-* [(Py)Soundfile](https://github.com/bastibe/PySoundFile) - Library based on libsndfile, CFFI, and NumPy
-* [pySox](https://github.com/rabitt/pysox) - Wrapper around sox
-* [tinytag](https://github.com/devsnd/tinytag) - reading music meta data of MP3, OGG, FLAC and Wave files
+* [audiolazy](https://github.com/danilobellini/audiolazy) [:octocat:](https://github.com/danilobellini/audiolazy) [:package:](https://pypi.python.org/pypi/audiolazy/) - Expressive Digital Signal Processing (DSP) package for Python
+* [audioread](https://github.com/beetbox/audioread) [:octocat:](https://github.com/beetbox/audioread) [:package:](https://pypi.python.org/pypi/audioread/) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding
+* [pyAV](https://mikeboers.github.io/PyAV) [:octocat:](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav
+* [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat:](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/soundfile/) - Library based on libsndfile, CFFI, and NumPy
+* [pySox](https://github.com/rabitt/pysox) [:octocat:](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper around sox
+* [tinytag](https://github.com/devsnd/tinytag) [:octocat:](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files
 
 #### Transformations - General DSP
 
@@ -78,17 +78,17 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 #### Speech Processing
 
 * [aeneas](https://www.readbeyond.it/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages
-* [FAVE-align](https://github.com/JoFrhwld/FAVE/) - Forced aligner, based on HTK (HMM), English. ⚠️ Not on PyPI, ⚠️ Not actively maintained
-* [Gentle](https://lowerquality.com/gentle/) - Forced aligner, based on Kaldi (HMM), English. ⚠️ Not on PyPI
-* [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)³ - Forced aligner, based on HTK (HMM), English (others can be trained). ⚠️ Not on PyPI
+* [FAVE-align](https://github.com/JoFrhwld/FAVE/) - Forced aligner, based on HTK (HMM), English. ⚠️ Not actively maintained
+* [Gentle](https://lowerquality.com/gentle/) - Forced aligner, based on Kaldi (HMM), English.
+* [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)³ - Forced aligner, based on HTK (HMM), English (others can be trained).
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² - Feature Extraction, Classification, Diarization
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) -  Interface to the WebRTC Voice Activity Detector
-* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) - Forced aligner, based on Kaldi (HMM), English (others can be trained). ⚠️ Not on PyPI
+* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
 * [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ - Speaker and Language recognition
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  Wrapper for several ASR engines and APIs, online and 
 offline
-* [SPPAS](http://www.sppas.org/index.html)² - Forced aligner, based on Julius (HMM), 12 languages (others can be trained). ⚠️ Not on PyPI
-* [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. ⚠️ Not maintained
+* [SPPAS](http://www.sppas.org/index.html)² - Forced aligner, based on Julius (HMM), 12 languages (others can be trained).
+* [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. 
 
 #### Perceptial Models - Auditory Models
 
