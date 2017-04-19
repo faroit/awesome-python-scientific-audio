@@ -54,9 +54,9 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Transformations - General DSP
 
-* [AudioTK](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters)
-* [Gammatone](https://github.com/detly/gammatone) - Gammatone filterbank implementation
-* [pyFFTW3](https://github.com/pyFFTW/pyFFTW) - Wrapper around FFTW
+* [AudioTK](https://github.com/mbrucher/AudioTK) [:octocat:](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters)
+* [Gammatone](https://github.com/detly/gammatone) [:octocat:](https://github.com/detly/gammatone) - Gammatone filterbank implementation
+* [pyFFTW](http://pyfftw.github.io/pyFFTW/) [:octocat:](https://github.com/pyFFTW/pyFFTW) [:package:](https://pypi.python.org/pypi/pyFFTW/) - Wrapper around FFTW(3)
 * [NSGT](https://github.com/grrrr/nsgt)² - Non-stationary gabor transform, constant-q
 * [MDCT](https://github.com/nils-werner/mdct) - MDCT transform
 * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
