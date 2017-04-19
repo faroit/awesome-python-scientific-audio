@@ -40,8 +40,8 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 ## Audio Related Packages
 
-- Total number of packages: 64
-- Python version compatibility:  ![62](http://progressed.io/bar/98?title=python%202) ![49](http://progressed.io/bar/82?title=python%203)
+- Total number of packages: 65
+- Python version compatibility:  ![63](http://progressed.io/bar/97?title=python%202) ![48](http://progressed.io/bar/74?title=python%203)
 
 #### Read-Write
 
@@ -113,6 +113,7 @@ offline
 * [Madmom](https://github.com/CPJKU/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition
 * [mir_eval](https://github.com/craffel/mir_eval) - Common scores for various MIR tasks. Also includes bss_eval implementation
 * [librosa](https://github.com/librosa/librosa) - general audio and music analysis
+* [rp_extract](https://github.com/tuwien-musicir/rp_extract)² [:octocat:](https://github.com/tuwien-musicir/rp_extract) - Rhythm Pattern music feature extractor
 
 #### Symbolic Music - MIDI - Musicology
 
