@@ -57,14 +57,14 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [AudioTK](https://github.com/mbrucher/AudioTK) [:octocat:](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters)
 * [Gammatone](https://github.com/detly/gammatone) [:octocat:](https://github.com/detly/gammatone) - Gammatone filterbank implementation
 * [pyFFTW](http://pyfftw.github.io/pyFFTW/) [:octocat:](https://github.com/pyFFTW/pyFFTW) [:package:](https://pypi.python.org/pypi/pyFFTW/) - Wrapper around FFTW(3)
-* [NSGT](https://github.com/grrrr/nsgt)² - Non-stationary gabor transform, constant-q
-* [MDCT](https://github.com/nils-werner/mdct) - MDCT transform
-* [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
-* [pytftb](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox
-* [PyRubberband](https://github.com/bmcfee/pyrubberband) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching
-* [PyWavelets](https://github.com/scikit-signal/pywt)² - Discrete Wavelet Transform in Python
-* [Resampy](https://github.com/bmcfee/resampy) - Sample rate conversion
-* [STFT](https://github.com/nils-werner/stft) - Standalone package for Short-Time Fourier Transform
+* [NSGT](https://grrrr.org/research/software/nsgt/)² [:octocat:](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q
+* [MDCT](https://github.com/nils-werner/mdct) [:octocat:](https://github.com/nils-werner/mdct) [:package:](https://pypi.python.org/pypi/mdct) - MDCT transform
+* [pydub](http://pydub.com) [:octocat:](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface
+* [pytftb](http://tftb.nongnu.org) [:octocat:](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox
+* [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat:](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching
+* [PyWavelets](http://www.pybytes.com/pywavelets/)² [:octocat:](https://github.com/scikit-signal/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python
+* [Resampy](http://resampy.readthedocs.io) [:octocat:](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion
+* [STFT](http://stft.readthedocs.io) [:octocat:](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform
 
 #### Feature extraction
 
