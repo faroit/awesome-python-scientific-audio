@@ -68,12 +68,12 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Feature extraction
 
-* [aubio](http://aubio.org/) - Feature extractor, written in C, python interface
-* [audiolazy](https://github.com/danilobellini/audiolazy) - Realtime Audio Processing lib, general purpose
-* [essentia](http://essentia.upf.edu)² - C++ based feature extractor + general purpose audio/MIR related DSP algorithms like pitch tracking, beat detection
-* [muda](https://github.com/bmcfee/muda) -  Musical Data Augmentation
-* [python_speech_features](https://github.com/jameslyons/python_speech_features) - Common speech features for ASR
-* [pyYAAFE](http://yaafe.sourceforge.net) - Python bindings for YAAFE
+* [aubio](http://aubio.org/) [:octocat:](https://github.com/aubio/aubio) [:package:](https://pypi.python.org/pypi/aubio) - Feature extractor, written in C, python interface
+* [audiolazy](https://github.com/danilobellini/audiolazy) [:octocat:]((https://github.com/danilobellini/audiolazy) [:package:](https://pypi.python.org/pypi/audiolazy/) - Realtime Audio Processing lib, general purpose
+* [essentia](http://essentia.upf.edu)² [:octocat:](https://github.com/MTG/essentia) - C++ based feature extractor + general purpose audio/MIR related DSP algorithms, includes Python bindings
+* [muda](https://muda.readthedocs.io/en/latest/) [:octocat:](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
+* [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat:](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR
+* [pyYAAFE](http://yaafe.sourceforge.net) [:octocat:](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE
 
 #### Speech Processing
 
