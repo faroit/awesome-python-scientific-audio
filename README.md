@@ -40,8 +40,8 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 ## Audio Related Packages
 
-- Total number of packages: 65
-- Python version compatibility:  ![63](http://progressed.io/bar/97?title=python%202) ![48](http://progressed.io/bar/74?title=python%203)
+- Total number of packages: 66
+- Python version compatibility:  ![64](http://progressed.io/bar/97?title=python%202) ![49](http://progressed.io/bar/74?title=python%203)
 
 #### Read-Write
 
@@ -54,6 +54,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Transformations - General DSP
 
+* [acoustics](http://python-acoustics.github.io/python-acoustics) [:octocat:](https://github.com/python-acoustics/python-acoustics) [:package:](https://pypi.python.org/pypi/acoustics) - useful tools for acousticians.
 * [AudioTK](https://github.com/mbrucher/AudioTK) [:octocat:](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters)
 * [Gammatone](https://github.com/detly/gammatone) [:octocat:](https://github.com/detly/gammatone) - Gammatone filterbank implementation
 * [pyFFTW](http://pyfftw.github.io/pyFFTW/) [:octocat:](https://github.com/pyFFTW/pyFFTW) [:package:](https://pypi.python.org/pypi/pyFFTW/) - Wrapper around FFTW(3)
