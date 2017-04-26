@@ -29,7 +29,6 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * the software is audio/music related
 * the software is released under an open source license that allow contributions
 * the software is useful for several (not just one) fields of research
-* (optional) the software is actively maintained (add a ⚠️ state if not)
 * (optional) the software is listed on pypi (add a 📦 link to pypi)
 * (optional) the software is version controlled on an open platform like :octocat:
 * (optional) the software runs on python 2 and python 3 (See `²` python 2 only, `³` for python 3 only)
@@ -40,8 +39,8 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 ## Audio Related Packages
 
-- Total number of packages: 66
-- Python version compatibility:  ![64](http://progressed.io/bar/97?title=python%202) ![49](http://progressed.io/bar/74?title=python%203)
+- Total number of packages: 64
+- Python version compatibility:  ![62](http://progressed.io/bar/97?title=python%202) ![48](http://progressed.io/bar/75?title=python%203)
 
 #### Read-Write
 
@@ -79,7 +78,6 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 #### Speech Processing
 
 * [aeneas](https://www.readbeyond.it/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages
-* [FAVE-align](https://github.com/JoFrhwld/FAVE/) - Forced aligner, based on HTK (HMM), English. ⚠️ Not actively maintained
 * [Gentle](https://lowerquality.com/gentle/) - Forced aligner, based on Kaldi (HMM), English.
 * [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)³ - Forced aligner, based on HTK (HMM), English (others can be trained).
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² - Feature Extraction, Classification, Diarization
@@ -143,7 +141,6 @@ offline
 
 #### Wrappers for Audio Plugins
 
-* [PyAU](https://github.com/simlmx/pyau)² ⚠️ Not maintained - Python Audio Unit Host
 * [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) - Interface compiled vamp plugins
 
 ### Bindings or Wrappers for other languages
