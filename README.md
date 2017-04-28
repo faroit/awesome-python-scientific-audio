@@ -39,8 +39,8 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 ## Audio Related Packages
 
-- Total number of packages: 64
-- Python version compatibility:  ![62](http://progressed.io/bar/97?title=python%202) ![48](http://progressed.io/bar/75?title=python%203)
+- Total number of packages: 61
+- Python version compatibility:  ![59](http://progressed.io/bar/97?title=python%202) ![47](http://progressed.io/bar/77?title=python%203)
 
 #### Read-Write
 
@@ -77,17 +77,13 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 #### Speech Processing
 
-* [aeneas](https://www.readbeyond.it/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages
-* [Gentle](https://lowerquality.com/gentle/) - Forced aligner, based on Kaldi (HMM), English.
-* [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)³ - Forced aligner, based on HTK (HMM), English (others can be trained).
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² - Feature Extraction, Classification, Diarization
-* [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) -  Interface to the WebRTC Voice Activity Detector
-* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
-* [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ - Speaker and Language recognition
-* [SpeechRecognition](https://github.com/Uberi/speech_recognition) -  Wrapper for several ASR engines and APIs, online and 
+* [aeneas](https://www.readbeyond.it/aeneas/) [:octocat:](https://github.com/readbeyond/aeneas/) [:package:](https://pypi.python.org/pypi/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² [:octocat:](https://github.com/tyiannak/pyAudioAnalysis) [:package:](https://pypi.python.org/pypi/pyAudioAnalysis/) - Feature Extraction, Classification, Diarization
+* [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) [:octocat:](https://github.com/wiseman/py-webrtcvad) [:package:](https://pypi.python.org/pypi/webrtcvad/) -  Interface to the WebRTC Voice Activity Detector
+* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
+* [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition
+* [SpeechRecognition](https://github.com/Uberi/speech_recognition) [:octocat:](https://github.com/Uberi/speech_recognition) [:package:](https://pypi.python.org/pypi/SpeechRecognition/) -  Wrapper for several ASR engines and APIs, online and
 offline
-* [SPPAS](http://www.sppas.org/index.html)² - Forced aligner, based on Julius (HMM), 12 languages (others can be trained).
-* [talkbox](http://scikits.appspot.com/talkbox)² - General speech/signal processing algorithms. 
 
 #### Perceptial Models - Auditory Models
 
