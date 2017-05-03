@@ -40,7 +40,7 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 ## Audio Related Packages
 
 - Total number of packages: 61
-- Python version compatibility:  ![59](http://progressed.io/bar/97?title=python%202) ![47](http://progressed.io/bar/77?title=python%203)
+- Python version compatibility:  ![59](http://progressed.io/bar/97?title=python%202) ![48](http://progressed.io/bar/79?title=python%203)
 
 #### Read-Write
 
@@ -87,10 +87,10 @@ offline
 
 #### Perceptial Models - Auditory Models
 
-* [cochlea](https://github.com/mrkrd/cochlea)² - Inner ear models
-* [BrianHears](http://www.briansimulator.org/docs/index.html)² - General Auditory Models
-* [Loudness](https://github.com/deeuu/loudness)² - Perceived loudness, includes Zwicker, Moore/Glasberg model
-* [Sound Field Synthesis Toolbox](https://github.com/sfstoolbox/sfs-python) - Sound Field Synthesis Toolbox
+* [cochlea](https://github.com/mrkrd/cochlea)² [:octocat:](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models
+* [Brian2](http://briansimulator.org/) [:octocat:](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
+* [Loudness](https://github.com/deeuu/loudness)² [:octocat:](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model
+* [Sound Field Synthesis Toolbox](http://sfstoolbox.org/) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox
 
 #### Source Separation
 
