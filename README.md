@@ -94,12 +94,12 @@ offline
 
 #### Source Separation
 
-* [beta_ntf](https://code.google.com/archive/p/beta-ntf/)² - Non-Negative Tensor factorisation using PARAFAC
-* [commonfate](https://github.com/aliutkus/commonfate) - Common Fate Transform
-* [NUSSL](https://github.com/interactiveaudiolab/nussl)² - Various source separation algorithms + framework
-* [NTFLib](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization Library
-* [NIMFA](http://nimfa.biolab.si) - Several NMF flavors
-* [pyFASST](https://github.com/wslihgt/pyfasst)² - Flexible Audio Source Separation Toolbox
+* [beta_ntf](https://code.google.com/archive/p/beta-ntf/)² [:octocat:](https://github.com/nils-werner/beta_ntf) - Non-Negative Tensor factorisation using PARAFAC.
+* [commonfate](https://github.com/aliutkus/commonfate) [:octocat:]() [:package:](https://pypi.python.org/pypi/commonfate) - Common Fate Model and Transform.
+* [NUSSL](https://interactiveaudiolab.github.io/nussl/)² [:octocat:](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Various source separation algorithms + framework.
+* [NTFLib](https://github.com/stitchfix/NTFLib) [:octocat:](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization.
+* [NIMFA](http://nimfa.biolab.si) [:octocat:](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several NMF flavors.
+* [pyFASST](https://github.com/wslihgt/pyfasst)² [:octocat:](https://github.com/wslihgt/pyfasst) [:package:](https://pypi.python.org/pypi/pyFASST) - Wrapper for  Flexible Audio Source Separation Toolbox.
 
 #### Music Information Retrieval
 
