@@ -103,12 +103,12 @@ offline
 
 #### Music Information Retrieval
 
-* [Catchy](https://github.com/jvbalen/catchy) - Corpus Analysis Tools for Computational Hook Discovery
-* [dejavu](https://github.com/worldveil/dejavu)² - Audio fingerprinting and recognition
-* [Madmom](https://github.com/CPJKU/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition
-* [mir_eval](https://github.com/craffel/mir_eval) - Common scores for various MIR tasks. Also includes bss_eval implementation
-* [librosa](https://github.com/librosa/librosa) - general audio and music analysis
-* [rp_extract](https://github.com/tuwien-musicir/rp_extract)² [:octocat:](https://github.com/tuwien-musicir/rp_extract) - Rhythm Pattern music feature extractor
+* [Catchy](https://github.com/jvbalen/catchy) [:octocat:](https://github.com/jvbalen/catchy) - Corpus Analysis Tools for Computational Hook Discovery
+* [dejavu](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/)² [:octocat:](https://github.com/worldveil/dejavu) [:package:](https://pypi.python.org/pypi/PyDejavu) - Audio fingerprinting and recognition
+* [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat:](https://github.com/CPJKU/madmom) [:package:](https://pypi.python.org/pypi/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition
+* [mir_eval](http://craffel.github.io/mir_eval/) [:octocat:](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval) - Common scores for various MIR tasks. Also includes bss_eval implementation
+* [librosa](http://librosa.github.io/librosa/) [:octocat:](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/librosa) - General audio and music analysis.
+* [rp_extract](https://github.com/tuwien-musicir/rp_extract)² [:octocat:](https://github.com/tuwien-musicir/rp_extract) [:octocat:](https://github.com/tuwien-musicir/rp_extract) - Rhythm Pattern music feature extractor
 
 #### Symbolic Music - MIDI - Musicology
 
