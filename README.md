@@ -154,6 +154,7 @@ offline
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises
 * https://github.com/unpingco/Python-for-Signal-Processing
+* http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html
 
 ## Contributing
 
