@@ -146,15 +146,28 @@ offline
 * [pybind11](https://pypi.python.org/pypi/pybind11) - Interface c++ code
 * [rpy2](http://rpy2.bitbucket.org/) - Call R from python
 
-## Tutorials - Books
+## Tutorials
 
 * [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) - Highly recommended :+1:
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Excellent Book, look for the Tutorial notebooks
 * [MIR Notebooks](http://musicinformationretrieval.com/)
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises
 * https://github.com/unpingco/Python-for-Signal-Processing
 * http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html
+
+## Books
+
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Excellent Book, look for the Tutorial notebooks
+
+## Papers
+
+* [PDF](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) __Python for audio signal processing__, John C. Glover, Victor Lazzarini and Joseph Timoney, Linux Audio Conference 2011
+* [PDF](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf), [Video](https://www.youtube.com/watch?v=MhOdbtPhbLU), __librosa: Audio and Music Signal Analysis in Python__, Brian McFee, Colin Raffel, Dawen Liang, Daniel P.W. Ellis, Matt McVicar, Eric Battenberg, Oriol Nieto, Scipy 2015
+
+## Lectures and other Resouces
+
+* [Coursera Course](https://www.coursera.org/learn/audio-signal-processing), __Audio Signal Processing__, Python based course from Universitat Pompeu Fabra of Barcelona and Stanford University  
+* [Slack Channel](https://mircommunity.slack.com) Music Information Retrieval Community
 
 ## Contributing
 
