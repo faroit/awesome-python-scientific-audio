@@ -4,8 +4,6 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Contents
 
-* [Awesome Criteria](#awesome-criteria)
-* [Related lists](#related-lists)
 * [Audio Related Packages](#audio-related-packages)
     - [Read/Write](#read-write)
     - [Transformations - General DSP](#transformations---general-dsp)
@@ -23,20 +21,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Books](#book)
 * [Scientific Paper](#scientific-papers)
 * [Other Resources](#other-resources)
-  + [License](#license)
-
-## Awesome Criteria
-
-* the software is audio/music related
-* the software is released under an open source license that allow contributions
-* the software is useful for several (not just one) fields of research
-* (optional) the software is listed on pypi (add a 📦 link to pypi)
-* (optional) the software is version controlled on an open platform like :octocat:
-* (optional) the software runs on python 2 and python 3 (See `²` python 2 only, `³` for python 3 only)
-
-## Related lists
-
-There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
+* [License](#license)
+* [Related lists](#related-lists)
 
 ## Audio Related Packages
 
@@ -161,12 +147,16 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 * [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
 * [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
+## Related lists
+
+There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
+
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
 
-### License
+## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
