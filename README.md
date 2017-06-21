@@ -17,7 +17,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
     - [Symbolic Music - MIDI - Musicology](#symbolic-music---midi---musicology)
     - [Realtime applications](#realtime-applications)
     - [Web - Audio](#web---audio)
-    - [Packages to access audio APIs - parsing audio datasets](#packages-to-access-audio-apis---parsing-audio-datasets)
+    - [Audio related APIs and Datasets](#audio-related-apis-and-datasets)
     - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
   + [Bindings or Wrappers for other languages](#bindings-or-wrappers-for-other-languages)
 * [Tutorials - Books](#tutorials---books)
@@ -126,7 +126,7 @@ offline
 
 * [TimeSide](https://github.com/Parisson/TimeSide)² [:octocat:](https://github.com/Parisson/TimeSide) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
-#### Packages to access audio APIs - parsing audio datasets
+#### Audio related APIs and Datasets
 
 * [beets](http://beets.io/) [:octocat:](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dsdtools](http://dsdtools.readthedocs.io) [:octocat:](https://github.com/faroit/dsdtools) [:package:](https://pypi.python.org/pypi/dsdtools) - Parse and process the [demixing secrets dataset](http://sisec17.audiolabs-erlangen.de/#/dataset).
