@@ -19,7 +19,6 @@ The aim of this repository is to create a comprehensive, curated list of python 
     - [Web - Audio](#web---audio)
     - [Audio related APIs and Datasets](#audio-related-apis-and-datasets)
     - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
-  + [Bindings or Wrappers for other languages](#bindings-or-wrappers-for-other-languages)
 * [Tutorials - Books](#tutorials---books)
 * [Contributing](#contributing)
   + [License](#license)
@@ -136,14 +135,7 @@ offline
 
 #### Wrappers for Audio Plugins
 
-* [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) - Interface compiled vamp plugins
-
-### Bindings or Wrappers for other languages
-
-* [CFFI]() - Easily interface c libraries
-* [Matlab_Wrapper](https://github.com/mrkrd/matlab_wrapper) - Runs code in matlab and returns results to python
-* [pybind11](https://pypi.python.org/pypi/pybind11) - Interface c++ code
-* [rpy2](http://rpy2.bitbucket.org/) - Call R from python
+* [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) [:package:](https://pypi.python.org/pypi/vamp) - Interface compiled vamp plugins.
 
 ## Tutorials
 
