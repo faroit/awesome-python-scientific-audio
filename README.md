@@ -19,8 +19,10 @@ The aim of this repository is to create a comprehensive, curated list of python 
     - [Web - Audio](#web---audio)
     - [Audio related APIs and Datasets](#audio-related-apis-and-datasets)
     - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
-* [Tutorials - Books](#tutorials---books)
-* [Contributing](#contributing)
+* [Tutorials](#tutorials)
+* [Books](#book)
+* [Scientific Paper](#scientific-papers)
+* [Other Resources](#other-resources)
   + [License](#license)
 
 ## Awesome Criteria
@@ -139,26 +141,26 @@ offline
 
 ## Tutorials
 
-* [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) - Highly recommended :+1:
-* [MIR Notebooks](http://musicinformationretrieval.com/)
-* [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
-* https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises
-* https://github.com/unpingco/Python-for-Signal-Processing
-* http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html
+* [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat:](https://github.com/scipy-lectures/scipy-lecture-notes
+) - Highly recommended tutorial, because it covers large parts of the scientific Python ecosystem.
+* [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) - collection of instructional iPython Notebooks for music information retrieval (MIR).
+* [Selected Topics in Audio Signal Processing]( https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) - Exercises as iPython notebooks.
 
 ## Books
 
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Excellent Book, look for the Tutorial notebooks
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Jake Vanderplas, Excellent Book and accompanying tutorial notebooks.
+* [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP) - Meinard Müller, comes with Python exercises.
 
-## Papers
+## Scientific Papers
 
-* [PDF](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) __Python for audio signal processing__, John C. Glover, Victor Lazzarini and Joseph Timoney, Linux Audio Conference 2011
-* [PDF](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf), [Video](https://www.youtube.com/watch?v=MhOdbtPhbLU), __librosa: Audio and Music Signal Analysis in Python__, Brian McFee, Colin Raffel, Dawen Liang, Daniel P.W. Ellis, Matt McVicar, Eric Battenberg, Oriol Nieto, Scipy 2015
+* [Python for audio signal processing](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) - John C. Glover, Victor Lazzarini and Joseph Timoney, Linux Audio Conference 2011
+* [librosa: Audio and Music Signal Analysis in Python](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf), [Video](https://www.youtube.com/watch?v=MhOdbtPhbLU) - Brian McFee, Colin Raffel, Dawen Liang, Daniel P.W. Ellis, Matt McVicar, Eric Battenberg, Oriol Nieto, Scipy 2015
 
-## Lectures and other Resouces
+## Other Resources
 
-* [Coursera Course](https://www.coursera.org/learn/audio-signal-processing), __Audio Signal Processing__, Python based course from Universitat Pompeu Fabra of Barcelona and Stanford University  
-* [Slack Channel](https://mircommunity.slack.com) Music Information Retrieval Community
+* [Coursera Course](https://www.coursera.org/learn/audio-signal-processing) -  Audio Signal Processing, Python based course from UPF of Barcelona and Stanford University.
+* [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
+* [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
 ## Contributing
 
