@@ -39,8 +39,8 @@ There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but
 
 ## Audio Related Packages
 
-- Total number of packages: 61
-- Python version compatibility:  ![59](http://progressed.io/bar/97?title=python%202) ![48](http://progressed.io/bar/79?title=python%203)
+- Total number of packages: 60
+- Python version compatibility:  ![58](http://progressed.io/bar/97?title=python%202) ![47](http://progressed.io/bar/78?title=python%203)
 
 #### Read-Write
 
@@ -119,9 +119,8 @@ offline
 
 #### Realtime applications
 
-* [PYO](https://github.com/belangeo/pyo) - Realtime audio engine similar supercollider
-* [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - another PortAudio wrapper
-* [(Py)Soundcard](https://github.com/bastibe/PySoundCard) - PortAudio based realtime audio processing
+* [PYO](http://ajaxsoundstudio.com/software/pyo/) [:octocat:](https://github.com/belangeo/pyo) - Realtime audio dsp engine.
+* [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) [:octocat:](http://python-sounddevice.readthedocs.io) [:package:](https://pypi.python.org/pypi/sounddevice) - PortAudio wrapper providing realtime audio I/O with Numpy.
 
 #### Web + Audio
 
