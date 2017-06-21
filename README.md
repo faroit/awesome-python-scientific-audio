@@ -21,8 +21,9 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Books](#book)
 * [Scientific Paper](#scientific-papers)
 * [Other Resources](#other-resources)
-* [License](#license)
 * [Related lists](#related-lists)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## Audio Related Packages
 
