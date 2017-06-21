@@ -124,15 +124,15 @@ offline
 
 #### Web + Audio
 
-* [TimeSide](https://github.com/Parisson/TimeSide)² - Open web audio processing framework.
+* [TimeSide](https://github.com/Parisson/TimeSide)² [:octocat:](https://github.com/Parisson/TimeSide) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
 #### Packages to access audio APIs - parsing audio datasets
 
-* [beets](http://beets.io/) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger
-* [dsdtools](https://github.com/faroit/dsdtools) - Parse and process the demixing secrets dataset
-* [medleydb](https://github.com/marl/medleydb) - Parse medleydb audio + annotations
-* [Soundcloud API](https://github.com/soundcloud/soundcloud-python) - Wrapper around the Soundcloud API
-* [Youtube-Downloader](https://github.com/rg3/youtube-dl) - Download youtube videos (and the audio)
+* [beets](http://beets.io/) [:octocat:](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+* [dsdtools](http://dsdtools.readthedocs.io) [:octocat:](https://github.com/faroit/dsdtools) [:package:](https://pypi.python.org/pypi/dsdtools) - Parse and process the [demixing secrets dataset](http://sisec17.audiolabs-erlangen.de/#/dataset).
+* [medleydb](http://medleydb.readthedocs.io) [:octocat:](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
+* [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat:](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper around the [Soundcloud API](https://developers.soundcloud.com/).
+* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube-dl) - Download youtube videos (and the audio).
 
 #### Wrappers for Audio Plugins
 
