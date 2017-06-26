@@ -28,7 +28,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 ## Audio Related Packages
 
 - Total number of packages: 60
-- Python version compatibility:  ![58](http://progressed.io/bar/97?title=python%202) ![47](http://progressed.io/bar/78?title=python%203)
+- Python version compatibility:  ![58](http://progressed.io/bar/97?title=python%202) ![48](http://progressed.io/bar/80?title=python%203)
 
 #### Read-Write
 
@@ -45,7 +45,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [AudioTK](https://github.com/mbrucher/AudioTK) [:octocat:](https://github.com/mbrucher/AudioTK) - DSP filter toolbox (lots of filters).
 * [Gammatone](https://github.com/detly/gammatone) [:octocat:](https://github.com/detly/gammatone) - Gammatone filterbank implementation.
 * [pyFFTW](http://pyfftw.github.io/pyFFTW/) [:octocat:](https://github.com/pyFFTW/pyFFTW) [:package:](https://pypi.python.org/pypi/pyFFTW/) - Wrapper for FFTW(3).
-* [NSGT](https://grrrr.org/research/software/nsgt/)² [:octocat:](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
+* [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat:](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 * [MDCT](https://github.com/nils-werner/mdct) [:octocat:](https://github.com/nils-werner/mdct) [:package:](https://pypi.python.org/pypi/mdct) - MDCT transform.
 * [pydub](http://pydub.com) [:octocat:](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
 * [pytftb](http://tftb.nongnu.org) [:octocat:](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
