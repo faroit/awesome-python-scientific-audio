@@ -128,7 +128,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Tutorials
 
-* [Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython) [:octocat:](https://github.com/jakevdp/WhirlwindTourOfPython
+* [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [:octocat:](https://github.com/jakevdp/WhirlwindTourOfPython
 ) - fast-paced introduction to Python essentials, aimed at researchers and developers.
 * [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat:](https://github.com/scipy-lectures/scipy-lecture-notes) - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
 * [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html) - Short overview of equivalent python functions for switchers.
