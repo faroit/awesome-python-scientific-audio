@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - ruby-2.4.1
+before_script:
+  - rake install
+script:
+  - awesome_bot README.md --allow-dupe --allow-timeout -t 5
