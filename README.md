@@ -28,8 +28,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 61
-- Python version compatibility:  ![59](http://progressed.io/bar/97?title=python%202) ![49](http://progressed.io/bar/80?title=python%203)
+- Total number of packages: 62
+- Python version compatibility:  ![60](http://progressed.io/bar/97?title=python%202) ![50](http://progressed.io/bar/80?title=python%203)
 
 #### Read-Write
 
@@ -63,6 +63,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [muda](https://muda.readthedocs.io/en/latest/) [:octocat:](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat:](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR.
 * [pyYAAFE](http://yaafe.sourceforge.net) [:octocat:](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE.
+* [speechpy](https://github.com/astorfi/speechpy) [:octocat:](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 #### Speech Processing
 
