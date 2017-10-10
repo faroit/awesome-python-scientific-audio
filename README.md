@@ -28,8 +28,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 64
-- Python version compatibility:  ![62](http://progressed.io/bar/97?title=python%202) ![52](http://progressed.io/bar/81?title=python%203)
+- Total number of packages: 65
+- Python version compatibility:  ![63](http://progressed.io/bar/97?title=python%202) ![54](http://progressed.io/bar/81?title=python%203)
 
 #### Read-Write
 
@@ -39,6 +39,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [pyAV](https://mikeboers.github.io/PyAV/) [:octocat:](https://mikeboers.github.io/PyAV/) - PyAV is a Pythonic binding for FFmpeg or Libav.
 * [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat:](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
 * [pySox](https://github.com/rabitt/pysox) [:octocat:](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
+* [PySynth](http://mdoege.github.io/PySynth) [:octocat:](https://github.com/mdoege/PySynth) - simple midi-to-wav synthesizer.
 * [tinytag](https://github.com/devsnd/tinytag) [:octocat:](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
 #### Transformations - General DSP
