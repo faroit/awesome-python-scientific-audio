@@ -128,6 +128,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [medleydb](http://medleydb.readthedocs.io) [:octocat:](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat:](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper for [Soundcloud API](https://developers.soundcloud.com/).
 * [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+* [Pytify](https://github.com/bjarneo/Pytify/) [:octocat:](https://github.com/bjarneo/Pytify) [:package:](https://pypi.python.org/pypi/pytify) - [Spotify](https://www.spotify.com/)remote. Search, start and navigate through songs from the CLI.
 
 #### Wrappers for Audio Plugins
 
