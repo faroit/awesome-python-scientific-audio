@@ -19,7 +19,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
     - [Audio related APIs and Datasets](#audio-related-apis-and-datasets)
     - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
 * [Tutorials](#tutorials)
-* [Books](#book)
+* [Books](#books)
 * [Scientific Paper](#scientific-papers)
 * [Other Resources](#other-resources)
 * [Related lists](#related-lists)
