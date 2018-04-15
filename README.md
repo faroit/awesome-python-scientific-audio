@@ -28,8 +28,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 68
-- Python version compatibility:  ![66](http://progressed.io/bar/97?title=python%202) ![57](http://progressed.io/bar/84?title=python%203)
+- Total number of packages: 69
+- Python version compatibility:  ![67](http://progressed.io/bar/97?title=python%202) ![58](http://progressed.io/bar/84?title=python%203)
 
 #### Read-Write
 
@@ -58,6 +58,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat:](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [PyWavelets](http://pywavelets.readthedocs.io) [:octocat:](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 * [Resampy](http://resampy.readthedocs.io) [:octocat:](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion.
+* [SFS-Python](http://sfstoolbox.org/) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 * [STFT](http://stft.readthedocs.io) [:octocat:](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform.
 
 #### Feature extraction
