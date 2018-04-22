@@ -13,6 +13,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
     - [Perceptial Models - Auditory Models](#perceptial-models---auditory-models)
     - [Source Separation](#source-separation)
     - [Music Information Retrieval](#music-information-retrieval)
+    - [Deep Learning](#deep-learning)
     - [Symbolic Music - MIDI - Musicology](#symbolic-music---midi---musicology)
     - [Realtime applications](#realtime-applications)
     - [Web - Audio](#web-audio)
@@ -26,10 +27,11 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Contributing](#contributing)
 * [License](#license)
 
+
 ## Audio Related Packages
 
-- Total number of packages: 69
-- Python version compatibility:  ![67](http://progressed.io/bar/97?title=python%202) ![58](http://progressed.io/bar/84?title=python%203)
+- Total number of packages: 70
+- Python version compatibility:  ![68](http://progressed.io/bar/97?title=python%202) ![59](http://progressed.io/bar/84?title=python%203)
 
 #### Read-Write
 
@@ -106,6 +108,11 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 * [librosa](http://librosa.github.io/librosa/) [:octocat:](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
 * [rp_extract](https://github.com/tuwien-musicir/rp_extract)² [:octocat:](https://github.com/tuwien-musicir/rp_extract) - Rhythm Pattern music feature extractor.
+
+#### Deep Learning Audio Tools
+
+* [Kapre](https://github.com/keunwoochoi/kapre) [:octocat:](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
+* [TorchAudio](https://github.com/pytorch/audio) [:octocat:](https://github.com/pytorch/audio) - PyTorch Audio Loaders
 
 #### Symbolic Music - MIDI - Musicology
 
