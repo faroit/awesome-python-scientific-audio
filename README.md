@@ -30,8 +30,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 70
-- Python version compatibility:  ![69](http://progressed.io/bar/99?title=python%202) ![60](http://progressed.io/bar/85?title=python%203)
+- Total number of packages: 71
+- Python version compatibility:  ![69](http://progressed.io/bar/99?title=python%202) ![61](http://progressed.io/bar/85?title=python%203)
 
 #### Read-Write
 
