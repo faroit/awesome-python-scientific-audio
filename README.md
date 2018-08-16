@@ -31,7 +31,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 ## Audio Related Packages
 
 - Total number of packages: 72
-- Python version compatibility:  ![70](http://progressed.io/bar/99?title=python%202) ![62](http://progressed.io/bar/85?title=python%203)
+- Python version compatibility:  ![69](http://progressed.io/bar/96?title=python%202) ![63](http://progressed.io/bar/86?title=python%203) (²indicates a python 2 only package, ³indicates a python 3 only package; the remaining package support python 2+3).
 
 #### Read-Write
 
@@ -89,7 +89,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 * [cochlea](https://github.com/mrkrd/cochlea)² [:octocat:](https://github.com/mrkrd/cochlea) [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
 * [Brian2](http://briansimulator.org/) [:octocat:](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
-* [Loudness](https://github.com/deeuu/loudness)² [:octocat:](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
+* [Loudness](https://github.com/deeuu/loudness)³ [:octocat:](https://github.com/deeuu/loudness) - Perceived loudness, includes Zwicker, Moore/Glasberg model.
 * [Sound Field Synthesis Toolbox](http://sfstoolbox.org/) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
 
 #### Source Separation
