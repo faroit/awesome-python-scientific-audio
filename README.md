@@ -10,6 +10,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
     - [Transformations - General DSP](#transformations---general-dsp)
     - [Feature extraction](#feature-extraction)
     - [Speech Processing](#speech-processing)
+    - [Environmental Sounds](#environmental-sounds)
     - [Perceptial Models - Auditory Models](#perceptial-models---auditory-models)
     - [Source Separation](#source-separation)
     - [Music Information Retrieval](#music-information-retrieval)
@@ -84,6 +85,10 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - Forced aligner, based on Kaldi (HMM), English (others can be trained).
 * [SIDEKIT](http://lium.univ-lemans.fr/sidekit/)³ [:package:](https://pypi.python.org/pypi/SIDEKIT/) - Speaker and Language recognition.
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) [:octocat:](https://github.com/Uberi/speech_recognition) [:package:](https://pypi.python.org/pypi/SpeechRecognition/) -  Wrapper for several ASR engines and APIs, online and offline.
+
+#### Environmental Sounds
+
+* [sed_eval](http://tut-arg.github.io/sed_eval) [:octocat:](https://github.com/TUT-ARG/sed_eval) [:package:](https://pypi.org/project/sed_eval/) - Evaluation toolbox for Sound Event Detection
 
 #### Perceptial Models - Auditory Models
 
