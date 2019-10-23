@@ -10,7 +10,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
     - [Transformations - General DSP](#transformations---general-dsp)
     - [Feature extraction](#feature-extraction)
     - [Speech Processing](#speech-processing)
-    - [Environmental Sounds](#environmental-sounds)
+    - [Environmental Sounds](#environmenta)
     - [Perceptial Models - Auditory Models](#perceptial-models---auditory-models)
     - [Source Separation](#source-separation)
     - [Music Information Retrieval](#music-information-retrieval)
@@ -78,6 +78,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 #### Speech Processing
 
 * [aeneas](https://www.readbeyond.it/aeneas/) [:octocat:](https://github.com/readbeyond/aeneas/) [:package:](https://pypi.python.org/pypi/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages.
+* [gentle](https://lowerquality.com/gentle/) [:octocat:](https://github.com/lowerquality/gentle) - Forced-aligner built on Kaldi.
 * [Parselmouth](https://github.com/YannickJadoul/Parselmouth) [:octocat:](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² [:octocat:](https://github.com/tyiannak/pyAudioAnalysis) [:package:](https://pypi.python.org/pypi/pyAudioAnalysis/) - Feature Extraction, Classification, Diarization.
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) [:octocat:](https://github.com/wiseman/py-webrtcvad) [:package:](https://pypi.python.org/pypi/webrtcvad/) -  Interface to the WebRTC Voice Activity Detector.
