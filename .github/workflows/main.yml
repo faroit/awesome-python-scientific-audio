@@ -1,0 +1,14 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: docker://dkhamsing/awesome_bot:latest
+      with:
+        args: --allow-dupe --allow-redirect --allow-ssl --allow-timeout -t 5 /github/workspace/README.md
