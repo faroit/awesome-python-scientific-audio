@@ -127,6 +127,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 * [Kapre](https://github.com/keunwoochoi/kapre) [:octocat:](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
 * [TorchAudio](https://github.com/pytorch/audio) [:octocat:](https://github.com/pytorch/audio) - PyTorch Audio Loaders
+* [nnAudio](https://github.com/KinWaiCheuk/nnAudio) [:octocat:](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
 
 #### Symbolic Music - MIDI - Musicology
 
