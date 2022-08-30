@@ -171,6 +171,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) - collection of instructional iPython Notebooks for music information retrieval (MIR).
 * [Selected Topics in Audio Signal Processing]( https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) - Exercises as iPython notebooks.
 * [Live-coding a music synthesizer](https://www.youtube.com/watch?v=SSyQ0kRHzis) Live-coding video showing how to use the SoundDevice library to reproduce realistic sounds. [Code](https://github.com/cool-RR/python_synthesizer).
+* [Applications of Python](https://www.scaler.com/topics/python/applications-of-python/) - Audio and Video-based Applications of Python.
 
 ## Books
 
