@@ -188,6 +188,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Coursera Course](https://www.coursera.org/learn/audio-signal-processing) -  Audio Signal Processing, Python based course from UPF of Barcelona and Stanford University.
 * [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
 * [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
+* [Scaler Topics Cources](https://www.scaler.com/topics/python/) - All the topics related to python with detailed knowledge with other different courses.
 
 ## Related lists
 
