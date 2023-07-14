@@ -125,6 +125,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [mir_eval](http://craffel.github.io/mir_eval/) [:octocat:](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval) - Common scores for various MIR tasks. Also includes bss_eval implementation.
 * [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 * [librosa](http://librosa.github.io/librosa/) [:octocat:](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
+* [chord-detection](https://github.com/sevagh/chord-detection) [:octocat:](https://github.com/sevagh/chord-detection) - Algorithms for chord detection and key estimation.
 
 #### Deep Learning
 
