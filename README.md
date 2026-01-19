@@ -145,7 +145,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Jupylet](https://github.com/nir/jupylet) [:octocat:](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 * [PYO](http://ajaxsoundstudio.com/software/pyo/) [:octocat:](https://github.com/belangeo/pyo) - Realtime audio dsp engine.
 * [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) [:octocat:](http://python-sounddevice.readthedocs.io) [:package:](https://pypi.python.org/pypi/sounddevice) - PortAudio wrapper providing realtime audio I/O with NumPy.
-* [ReTiSAR](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat:](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binarual rendering of streamed or IR-based high-order spherical microphone array signals.
+* [ReTiSAR](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat:](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binaural rendering of streamed or IR-based high-order spherical microphone array signals.
 
 #### Web Audio
 
