@@ -40,7 +40,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [audioread](https://github.com/beetbox/audioread) [:octocat:](https://github.com/beetbox/audioread) [:package:](https://pypi.python.org/pypi/audioread/) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
 * [mutagen](https://mutagen.readthedocs.io/) [:octocat:](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
 * [pyAV](http://docs.mikeboers.com/pyav/) [:octocat:](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
-* [pyfar](http://pysoundfile.readthedocs.io/) [:octocat:](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Read audio files, SOFA files, and COMSOL data with the [pyfar.io](https://pyfar.readthedocs.io/en/stable/modules/pyfar.io.html) module.
+* [pyfar](https://pyfar.readthedocs.io) [:octocat:](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Read audio files, SOFA files, and COMSOL data with the [pyfar.io](https://pyfar.readthedocs.io/en/stable/modules/pyfar.io.html) module.
 * [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat:](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
 * [pySox](https://github.com/rabitt/pysox) [:octocat:](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
 * [stempeg](https://github.com/faroit/stempeg) [:octocat:](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
