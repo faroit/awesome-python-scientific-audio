@@ -32,7 +32,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 67
+- Total number of packages: 68
 
 #### Read-Write
 
@@ -56,6 +56,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat:](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 * [matchering](https://github.com/sergree/matchering) [:octocat:](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) - Automated reference audio mastering.
 * [MDCT](https://github.com/nils-werner/mdct) [:octocat:](https://github.com/nils-werner/mdct) [:package:](https://pypi.python.org/pypi/mdct) - MDCT transform.
+* [phonometry](https://jmrplens.github.io/phonometry/) [:octocat:](https://github.com/jmrplens/phonometry) [:package:](https://pypi.org/project/phonometry/) - Standard-conformant acoustic measurement (formerly PyOctaveBand): fractional-octave filtering, sound level metrology, psychoacoustics, building and underwater acoustics, each metric checked against its governing standard.
 * [pydub](http://pydub.com) [:octocat:](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
 * [pyfar](https://pyfar.readthedocs.io) [:octocat:](https://github.com/pyfar/pyfar) [:package:](https://pypi.org/project/pyfar/) - Perform general DSP and filtering tailored for acoustic signals with the [pyfar.dsp](https://pyfar.readthedocs.io/en/stable/modules/pyfar.dsp.html) module.
 * [pytftb](http://tftb.nongnu.org) [:octocat:](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
