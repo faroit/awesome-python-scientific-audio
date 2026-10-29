@@ -32,7 +32,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 68
+- Total number of packages: 69
 
 #### Read-Write
 
@@ -146,6 +146,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Realtime applications
 
+* [ismail](https://github.com/newsbubbles/ismail) [:octocat:](https://github.com/newsbubbles/ismail) [:package:](https://pypi.org/project/ismail/) - Text-driven DAW: synthesis, effects, mixing, mastering and live sets, with analysis views (spectra, onsets, chords, structure) returned as text.
 * [Jupylet](https://github.com/nir/jupylet) [:octocat:](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 * [PYO](http://ajaxsoundstudio.com/software/pyo/) [:octocat:](https://github.com/belangeo/pyo) - Realtime audio dsp engine.
 * [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) [:octocat:](http://python-sounddevice.readthedocs.io) [:package:](https://pypi.python.org/pypi/sounddevice) - PortAudio wrapper providing realtime audio I/O with NumPy.
