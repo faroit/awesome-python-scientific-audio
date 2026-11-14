@@ -154,6 +154,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 #### Web Audio
 
 * [TimeSide (Beta)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat:](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
+* [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares.
 
 #### Audio Dataset and Dataloaders
 
