@@ -154,6 +154,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 #### Web Audio
 
 * [TimeSide (Beta)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat:](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
+* [No Stairs Please](https://nostairsplease.com/) - live music venue directory and MCP server (`https://nostairsplease.com/mcp`) for touring musicians.
 
 #### Audio Dataset and Dataloaders
 
